@@ -1,0 +1,201 @@
+﻿model,term,n_words,n_tokens,tokens,is_word_level
+MarianMT,BIM module,2,3,▁B IM ▁module,False
+MarianMT,data centre,2,2,▁data ▁centre,True
+MarianMT,prefabricated modular element,3,3,▁prefabricated ▁modular ▁element,True
+MarianMT,cloud-based,1,3,▁cloud - based,False
+MarianMT,family templates,2,2,▁family ▁templates,True
+MarianMT,intellectual property,2,2,▁intellectual ▁property,True
+MarianMT,control points,2,2,▁control ▁points,True
+MarianMT,laser scanning,2,2,▁laser ▁scanning,True
+MarianMT,geophysics,1,2,▁geophysic s,False
+MarianMT,measured survey,2,2,▁measured ▁survey,True
+MarianMT,metadata,1,1,▁metadata,True
+MarianMT,parametric modelling,2,3,▁para metric ▁modelling,False
+MarianMT,modelling tolerance,2,2,▁modelling ▁tolerance,True
+MarianMT,parametric objects,2,3,▁para metric ▁objects,False
+MarianMT,photogrammetry,1,3,▁photo gram metry,False
+MarianMT,plug-ins,1,3,▁plug - ins,False
+MarianMT,viewports,1,3,▁view port s,False
+MarianMT,project north,2,2,▁project ▁north,True
+MarianMT,point cloud,2,2,▁point ▁cloud,True
+MarianMT,carbon performance,2,2,▁carbon ▁performance,True
+MarianMT,desk-based assessment,2,4,▁desk - based ▁assessment,False
+MarianMT,federated discipline-specific models,3,7,▁fed er ated ▁discipline - specific ▁models,False
+MarianMT,intangible characteristics,2,2,▁intangible ▁characteristics,True
+MarianMT,meshing,1,3,▁me sh ing,False
+MarianMT,metric survey,2,2,▁metric ▁survey,True
+MarianMT,native BIM,2,3,▁native ▁B IM,False
+MarianMT,operation and maintenance (O&M),4,8,▁operation ▁and ▁maintenance ▁( O & M ),False
+MarianMT,operational stage,2,2,▁operational ▁stage,True
+MarianMT,professional liability,2,2,▁professional ▁liability,True
+MarianMT,anthropometry,1,5,▁an th rop o metry,False
+MarianMT,atrium,1,3,▁at r ium,False
+MarianMT,balcony,1,4,▁b al con y,False
+MarianMT,facade,1,3,▁fa c ade,False
+MarianMT,semiotics,1,3,▁semi otic s,False
+MarianMT,pyramid,1,1,▁pyramid,True
+MarianMT,harmony,1,1,▁harmony,True
+MarianMT,golden section,2,2,▁golden ▁section,True
+MarianMT,fresco,1,3,▁f res co,False
+MarianMT,frieze,1,3,▁f rie ze,False
+MarianMT,gallery,1,1,▁gallery,True
+MarianMT,rhythm,1,1,▁rhythm,True
+MarianMT,roof,1,1,▁roof,True
+MarianMT,terrace,1,2,▁ter race,False
+MarianMT,vestibule,1,3,▁vest ib ule,False
+MarianMT,wall,1,1,▁wall,True
+MarianMT,villa,1,1,▁villa,True
+MarianMT,topography,1,2,▁top ography,False
+MarianMT,transformation,1,1,▁transformation,True
+MarianMT,volume,1,1,▁volume,True
+MarianMT,space,1,1,▁space,True
+MarianMT,anomaly,1,1,▁anomaly,True
+MarianMT,axis,1,1,▁axis,True
+MarianMT,concrete,1,1,▁concrete,True
+MarianMT,ergonomics,1,6,▁ er gon omi c s,False
+MarianMT,capital,1,1,▁capital,True
+MarianMT,figure,1,1,▁figure,True
+MarianMT,colonnade,1,3,▁colon na de,False
+MarianMT,column,1,1,▁column,True
+MarianMT,Building Information Modelling (BIM),4,7,▁Building ▁Information ▁Modelling ▁( B IM ),False
+MarianMT,Asset Information Requirements (AIR),4,6,▁Asset ▁Information ▁Requirements ▁( AIR ),False
+MarianMT,Project Information Model (PIM),4,7,▁Project ▁Information ▁Model ▁( P IM ),False
+MarianMT,church,1,1,▁church,True
+MarianMT,computer modeling,2,3,▁computer ▁model ing,False
+MarianMT,cantilever,1,3,▁can til ever,False
+MarianMT,module,1,1,▁module,True
+MarianMT,contrast,1,1,▁contrast,True
+MarianMT,podium,1,1,▁podium,True
+MarianMT,unity,1,1,▁unity,True
+MarianMT,torii,1,3,▁to r ii,False
+MarianMT,tokonoma,1,3,▁to kon oma,False
+MarianMT,threshold,1,1,▁threshold,True
+MarianMT,tetrastyle,1,2,▁tetra style,False
+MarianMT,symmetry,1,4,▁s y m metry,False
+MarianMT,story,1,1,▁story,True
+MarianMT,stele,1,2,▁st ele,False
+MarianMT,spire,1,2,▁sp ire,False
+MarianMT,sill,1,2,▁s ill,False
+MarianMT,shrine,1,2,▁sh rine,False
+MarianMT,proportion,1,1,▁proportion,True
+MarianMT,rampart,1,2,▁ramp art,False
+MarianMT,promenade,1,3,▁pro men ade,False
+MarianMT,portico,1,2,▁port ico,False
+MarianMT,peristyle,1,3,▁per i style,False
+MarianMT,pavilion,1,4,▁p a vil ion,False
+MarianMT,palazzo,1,4,▁p al az zo,False
+MarianMT,pagoda,1,3,▁p ago da,False
+MarianMT,obelisk,1,3,▁ob eli sk,False
+MarianMT,nuraghe,1,3,▁nu rag he,False
+MarianMT,niche,1,1,▁niche,True
+MarianMT,nave,1,2,▁na ve,False
+MarianMT,mosque,1,1,▁mosque,True
+MarianMT,minaret,1,3,▁min a ret,False
+MarianMT,mezzanine,1,4,▁me zz a nine,False
+MarianMT,megalith,1,3,▁mega li th,False
+MarianMT,mausoleum,1,4,▁ma us ole um,False
+MarianMT,mass,1,1,▁mass,True
+MarianMT,joist,1,3,▁ jo ist,False
+MarianMT,hierarchy,1,1,▁hierarchy,True
+MarianMT,hall,1,1,▁hall,True
+MarianMT,background,1,1,▁background,True
+NLLB,BIM module,2,3,▁B IM ▁module,False
+NLLB,data centre,2,2,▁data ▁centre,True
+NLLB,prefabricated modular element,3,7,▁pre fab ric ated ▁mod ular ▁element,False
+NLLB,cloud-based,1,3,▁cloud - based,False
+NLLB,family templates,2,3,▁family ▁temp lates,False
+NLLB,intellectual property,2,3,▁intelle ctual ▁property,False
+NLLB,control points,2,2,▁control ▁points,True
+NLLB,laser scanning,2,3,▁laser ▁sc anning,False
+NLLB,geophysics,1,3,▁ge ophy sics,False
+NLLB,measured survey,2,3,▁meas ured ▁survey,False
+NLLB,metadata,1,3,▁met ad ata,False
+NLLB,parametric modelling,2,4,▁paramet ric ▁mod elling,False
+NLLB,modelling tolerance,2,4,▁mod elling ▁toler ance,False
+NLLB,parametric objects,2,4,▁paramet ric ▁obje cts,False
+NLLB,photogrammetry,1,4,▁phot ogram met ry,False
+NLLB,plug-ins,1,3,▁plug - ins,False
+NLLB,viewports,1,2,▁view ports,False
+NLLB,project north,2,2,▁project ▁north,True
+NLLB,point cloud,2,2,▁point ▁cloud,True
+NLLB,carbon performance,2,2,▁carbon ▁performance,True
+NLLB,desk-based assessment,2,4,▁desk - based ▁assessment,False
+NLLB,federated discipline-specific models,3,7,▁feder ated ▁discipline - spe cific ▁models,False
+NLLB,intangible characteristics,2,5,▁int ang ible ▁character istics,False
+NLLB,meshing,1,2,▁mes hing,False
+NLLB,metric survey,2,3,▁met ric ▁survey,False
+NLLB,native BIM,2,4,▁n ative ▁B IM,False
+NLLB,operation and maintenance (O&M),4,8,▁operation ▁and ▁maintenance ▁( O & M ),False
+NLLB,operational stage,2,3,▁oper ational ▁stage,False
+NLLB,professional liability,2,3,▁professional ▁lia bility,False
+NLLB,anthropometry,1,4,▁an throp omet ry,False
+NLLB,atrium,1,2,▁at rium,False
+NLLB,balcony,1,3,▁bal c ony,False
+NLLB,facade,1,2,▁fac ade,False
+NLLB,semiotics,1,3,▁sem io tics,False
+NLLB,pyramid,1,2,▁pyr amid,False
+NLLB,harmony,1,2,▁harm ony,False
+NLLB,golden section,2,3,▁gol den ▁section,False
+NLLB,fresco,1,2,▁fres co,False
+NLLB,frieze,1,2,▁frie ze,False
+NLLB,gallery,1,2,▁gal lery,False
+NLLB,rhythm,1,3,▁rhy th m,False
+NLLB,roof,1,1,▁roof,True
+NLLB,terrace,1,2,▁terra ce,False
+NLLB,vestibule,1,2,▁vesti bule,False
+NLLB,wall,1,1,▁wall,True
+NLLB,villa,1,1,▁villa,True
+NLLB,topography,1,2,▁top ography,False
+NLLB,transformation,1,2,▁transform ation,False
+NLLB,volume,1,1,▁volume,True
+NLLB,space,1,1,▁space,True
+NLLB,anomaly,1,2,▁anom aly,False
+NLLB,axis,1,2,▁ax is,False
+NLLB,concrete,1,1,▁concrete,True
+NLLB,ergonomics,1,3,▁erg onom ics,False
+NLLB,capital,1,1,▁capital,True
+NLLB,figure,1,1,▁figure,True
+NLLB,colonnade,1,3,▁col onn ade,False
+NLLB,column,1,2,▁col umn,False
+NLLB,Building Information Modelling (BIM),4,8,▁Building ▁Information ▁Mod elling ▁( B IM ),False
+NLLB,Asset Information Requirements (AIR),4,10,▁As set ▁Information ▁Re quir ements ▁( A IR ),False
+NLLB,Project Information Model (PIM),4,7,▁Project ▁Information ▁Model ▁( P IM ),False
+NLLB,church,1,1,▁church,True
+NLLB,computer modeling,2,3,▁computer ▁mod eling,False
+NLLB,cantilever,1,3,▁can tile ver,False
+NLLB,module,1,1,▁module,True
+NLLB,contrast,1,1,▁contrast,True
+NLLB,podium,1,2,▁podi um,False
+NLLB,unity,1,2,▁un ity,False
+NLLB,torii,1,2,▁t orii,False
+NLLB,tokonoma,1,3,▁tok on oma,False
+NLLB,threshold,1,3,▁th res hold,False
+NLLB,tetrastyle,1,3,▁tet rast yle,False
+NLLB,symmetry,1,3,▁sym met ry,False
+NLLB,story,1,1,▁story,True
+NLLB,stele,1,2,▁ste le,False
+NLLB,spire,1,2,▁sp ire,False
+NLLB,sill,1,2,▁s ill,False
+NLLB,shrine,1,2,▁sh rine,False
+NLLB,proportion,1,1,▁proportion,True
+NLLB,rampart,1,2,▁ramp art,False
+NLLB,promenade,1,2,▁promen ade,False
+NLLB,portico,1,2,▁por tico,False
+NLLB,peristyle,1,3,▁per ist yle,False
+NLLB,pavilion,1,3,▁pa vili on,False
+NLLB,palazzo,1,2,▁pala zzo,False
+NLLB,pagoda,1,2,▁pag oda,False
+NLLB,obelisk,1,3,▁ob el isk,False
+NLLB,nuraghe,1,3,▁nur ag he,False
+NLLB,niche,1,1,▁niche,True
+NLLB,nave,1,1,▁nave,True
+NLLB,mosque,1,2,▁mos que,False
+NLLB,minaret,1,2,▁min aret,False
+NLLB,mezzanine,1,3,▁mezz an ine,False
+NLLB,megalith,1,3,▁me gali th,False
+NLLB,mausoleum,1,3,▁ma uso leum,False
+NLLB,mass,1,1,▁mass,True
+NLLB,joist,1,2,▁jo ist,False
+NLLB,hierarchy,1,3,▁hier arch y,False
+NLLB,hall,1,1,▁hall,True
+NLLB,background,1,1,▁background,True

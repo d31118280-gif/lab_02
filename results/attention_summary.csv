@@ -1,0 +1,3 @@
+﻿segment_id,tensor_shape,n_heads,target_len,source_len,mean_max_weight,example_alignment
+s002,"(1, 8, 15, 16)",8,15,16,0.5575,▁В→▁infrastructure; ▁инфраструктуру→▁infrastructure; ▁центра→▁centre; ▁обработки→▁data; ▁данных→</s>
+s007,"(1, 8, 48, 43)",8,48,43,0.5337,▁Была→▁network; ▁установлена→▁installed; ▁и→▁network; ▁с→▁coordinated; координ→▁coordinated
