@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossary EN-RU: Строительство, архитектура и BIM-технологии</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Lab 01, variant 14, generated automatically</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="tid-001">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>BIM module</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A digital model of an integrated structural unit that has the properties and characteristics of several structural elements designed in the information modeling environment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>BIM-модуль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-002">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>data centre</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A complex engineering structure, a high-tech site for maintaining information systems and telecommunications equipment, whose function is to process, store and transmit information, strategically important for a particular company, and manage its information system.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>центр обработки данных</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-003">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>prefabricated modular element</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A structural element made of different materials, which demonstrates the highest degree of readiness for installation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модульный элемент максимальной готовности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-004">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cloud-based</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <descrip type="definition">Applications, services or resources made available on demand via the Internet from a cloud computing provider’s servers.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>облачные приложения</term>
+              <termNote type="partOfSpeech">adjective</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-005">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>family templates</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Serve as building blocks for creating element families that contain the shared information needed to start a BIM modelling project.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>шаблоны семейства</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-006">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>intellectual property</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Creative work which can be treated as an asset or physical property.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интеллектуальная собственность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-007">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>control points</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A point on the ground or building that has pre-observed three dimensional co-ordinates.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>контрольные точки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-008">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>laser scanning</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An active, fast and automatic acquisition technique using laser light for non-contact measurement of 3D coordinates of points on surfaces in a dense regular pattern.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>лазерное сканирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-009">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>geophysics</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The application of physics to study the earth and detect past human activity beneath the ground that plays a vital role in the discovery and understanding of archaeological sites.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>геофизика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-010">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>measured survey</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of measurement for buildings and sites to provide an accurate, reduced scale representation showing the required structural elements and architectural features.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>процесс изменений зданий и местности</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-011">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>metadata</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Data that describes other data and facilitates the re-use and long-term preservation of 3D survey datasets.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метаданные</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-012">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>parametric modelling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The creation of a digital model based on a series of pre-programmed rules so that changes in design will automatically update the assembly and its components.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>параметрическое моделирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-013">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>modelling tolerance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">How accurately a model fits against the as-existing survey, usually a point cloud dataset.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>допустимое значение моделирования</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-014">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>parametric objects</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Objects created using geometric definitions, associated data and rules that define their behaviour, how they interact with other objects or respond to changes in their parameters.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>параметрические объекты</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-015">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>photogrammetry</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The art, science and technology of determining size, shape and identification of objects by analysing terrestrial or aerial imagery.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фотограмметрия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-016">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>plug-ins</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A software component that adds a specific feature to an existing computer program.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подключаемые модули</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-017">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>viewports</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A users visible area of a page which can be single or multiple depending on the available viewing hardware and the process being undertaken.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>видовые экраны</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-018">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>project north</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The top of the drawing area within BIM authoring software.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вид сверху</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-019">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>point cloud</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A collection of XYZ coordinates in a common co-ordinate system, that may also include additional information such as an intensity or RGB value, that portrays to the viewer an understanding of the spatial distribution of the surface of a subject.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>облако точек</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-020">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>carbon performance</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A measure of the carbon emissions from the operation, use and maintenance of an asset and the emissions associated with the users of the asset.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>углеродные показатели</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-021">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>desk-based assessment</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition"> The summary, collation and/or synthesis of existing research, assessments and management of legacy information.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>кабинетная оценка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-022">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>federated discipline-specific models</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An assembly of the discipline-specific models that contain 3D geometric and non-graphical data and associated documentation.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>интегрированные отраслевые модели</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-023">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>intangible characteristics</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Identifiable non-monetary assets, such as heritage values and significance, that cannot be seen, touched or physically measured and are created through time and effort.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нематериальные характеристики</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-024">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>meshing</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of generating a polygonal or polyhedral mesh through the interconnection of three dimensional vertices.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>создание сетки</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-025">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>metric survey</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The use of precise and repeatable measurement methods to capture spatial information for reproduction at scale.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>метрический обзор</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-026">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>native BIM</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The original component creation process used for representing the geometry of existing fabric.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>встроенное BIM-моделирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-027">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>operation and maintenance (O&amp;M)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The daily activities and services needed to ensure an asset performs to its intended function.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эксплуатация и техническое обслуживание</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-028">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>operational stage</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The final stage in an assets development when the BIM data is used to manage all the information related to the operation and maintenance of the asset.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>операционный этап</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-029">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>professional liability</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Legal obligations arising out of a professional’s errors, acts of negligence or omissions during the course of their work.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>профессиональная ответственность</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-030">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>anthropometry</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The measurement and study of the size and proportions of the human body.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>антропометрия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-031">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>atrium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Originally, the main or central inner hall of an ancient Roman house, open to the sky at the center and usually having a pool for the collection of rainwater. Later, the forecourt of an early Christian church, flanked or surrounded by porticoes. Now, an open, skylit court around which a house or building is built.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>атрий</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-032">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>balcony</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An elevated platform projecting from the wall of a building and enclosed by a railing or parapet.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>балкон</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-033">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>facade</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The front of a building or any of its sides facing a public way or space, esp. one distinguished by its architectural treatment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фасад</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-034">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>semiotics</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The study of signs and symbols as elements of communicative behavior.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>семиотика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-035">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pyramid</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A massive masonry structure having a rectangular base and four smooth, steeply sloping sides facing the cardinal points and meeting at an apex, used in ancient Egypt as a tomb to contain the burial chamber and the mummy of the pharaoh.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пирамида</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-036">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>harmony</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The orderly, pleasing, or congruent arrangement of the elements or parts in an artistic whole.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>гармония</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-037">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>golden section</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A proportion between the two dimensions of a plane figure or the two divisions of a line, in which the ratio of the smaller to the larger is the same as the ratio of the larger to the whole: a ratio of approximately 0.618 to 1.000.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>золотое сечение</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-038">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fresco</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The art or technique of painting on a freshly spread, moist plaster surface with pigments ground up in water or a limewater mixture.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фреска</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-039">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>frieze</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The horizontal part of a classical entablature between the cornice and architrave, often decorated with sculpture in low relief. Also, a decorative band, as one along the top of an interior wall, immediately below the cornice, or a sculptured one in a stringcourse on an outside wall.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фриз</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-040">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>gallery</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A long, relatively narrow room or hall, esp. one for public use and having architectural importance through its scale or decorative treatment. Also, a roofed promenade, esp. one extending inside or outside along the exterior wall of a building.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>галерея</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-041">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rhythm</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Movement characterized by a patterned repetition or alternation of formal elements or motifs in the same or a modified form.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ритм</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-042">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>roof</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The external upper covering of a building, including the frame for supporting the roofing.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>крыша</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-043">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>terrace</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A raised level with a vertical or sloping front or sides faced with masonry, turf, or the like, esp. one of a series of levels rising above one another.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>терраса</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-044">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>vestibule</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A small entrance hall between the outer door and the interior of a house or building.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вестибюль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-045">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>wall</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any of various upright constructions presenting a continuous surface and serving to enclose, divide, or protect an area.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стена</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-046">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>villa</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A country residence or estate.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вилла</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-047">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>topography</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The physical configuration and features of a site, area, or region.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>топография</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-048">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>transformation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The process of changing in form or structure through a series of discrete permutations and manipulations in response to a specific context or set of conditions without a loss of identity or concept.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>трансформация</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-049">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>volume</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The size or extent of a three-dimensional object or region of space, measured in cubic units.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>объем</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-050">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>space</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The three-dimensional field in which objects and events occur and have relative position and direction, esp. a portion of that field set apart in a given instance or for a particular purpose.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пространство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-051">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>anomaly</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A deviation from the normal or expected form, order, or arrangement.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>аномалия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-052">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>axis</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A central line that bisects a two-dimensional body or figure or about which a three-dimensional body or figure is symmetrical. Also, a straight line to which elements in a composition are referred for measurement or symmetry.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ось</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-053">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>concrete</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An artificial, stonelike building material made by mixing cement and various mineral aggregates with sufficient water to cause the cement to set and bind the entire mass.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>бетон</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-054">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ergonomics</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An applied science concerned with the characteristics of people that need to be considered in the design of devices and systems in order that people and things will interact effectively and safely.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>эргономика</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-055">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>capital</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The distinctively treated upper end of a column, pillar, or pier, crowning the shaft and taking the weight of the entablature or architrave.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>капитель</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-056">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>figure</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A shape or form, as determined by outlines or exterior surfaces. Also, a combination of geometric elements disposed in a particular form or shape.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фигура</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-057">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>colonnade</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition"> A series of regularly spaced columns supporting an entablature and usually one side of a roof structure.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>колоннада</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-058">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>column</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A rigid, relatively slender structural member designed primarily to support compressive loads applied at the member ends. In classical architecture, a cylindrical support consisting of a capital, shaft, and usually a base, either monolithic or built up of drums the full diameter of the shaft.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>колонна</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-059">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Building Information Modelling (BIM)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A collaborative process for the production and management of structured electronic information and illustrating, in digital terms, all the elements that compose a building.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>BIM (Информационное моделирование зданий)</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-060">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Asset Information Requirements (AIR)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Define the information required at project handover stage to enable the safe and effective operation of the asset.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>требования к информации об активах</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-061">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Project Information Model (PIM)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">developed during the design and construction phase of a project which often forms the basis of the asset information model.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>информационная модель проекта</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-062">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>church</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A building for public Christian worship.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>храм (церковь)</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-063">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>computer modeling</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The use of computer technology and mathematical algorithms to create abstract models of systems and processes to simulate their behavior.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>компьютерное моделирование</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-064">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cantilever</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A beam or other rigid structural member extending beyond a fulcrum and supported by a balancing member or a downward force behind the fulcrum.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>консоль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-065">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>module</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A unit of measurement used for standardizing the dimensions of building materials or regulating the proportions of an architectural composition.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>модуль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-066">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>contrast</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Opposition or juxtaposition of dissimilar elements in a work of art to intensify each element’s properties and produce a more dynamic expressiveness.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>контраст</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-067">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>podium</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A solid mass of masonry visible above ground level and serving as the foundation of a building, esp. the platform forming the floor and substructure of a classical temple.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подиум</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-068">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>unity</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The state or quality of being combined into one, as the ordering of elements in an artistic work that constitutes a harmonious whole or promotes a singleness of effect.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>единство</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-069">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>torii</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A monumental, freestanding gateway on the approach to a Shinto shrine, consisting of two pillars connected at the top by a horizontal crosspiece and a lintel above it, usually curving upward.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тории</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-070">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tokonoma</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Picture recess: a shallow, slightly raised alcove for the display of a flower arrangement or a kakemono, a vertical hanging scroll containing either text or a painting.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>токонома</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-071">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>threshold</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A place or point of entering or beginning.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>порог</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-072">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tetrastyle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Having four columns on one or each front.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>тетрастиль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-073">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>symmetry</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The exact correspondence in size, form, and arrangement of parts on opposite sides of a dividing line or plane, or about a center or axis. Also, regularity of form or arrangement in terms of like, reciprocal, or corresponding parts.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>симметрия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-074">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>story</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A complete horizontal division of a building, having a continuous or nearly continuous floor and comprising the space between two adjacent levels.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>этаж</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-075">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stele</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An upright stone slab or pillar with a carved or inscribed surface, used as a monument or marker, or as a commemorative tablet in the face of a building.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>стела</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-076">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>spire</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A tall, acutely tapering pyramidal structure surmounting a steeple or tower.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>шпиль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-077">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sill</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The lowest horizontal member of a frame structure, resting on and anchored to a foundation wall. Also, the horizontal member beneath a door or window opening.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>подоконник</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-078">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>shrine</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A building or other shelter, often of a stately or sumptuous character, enclosing the remains or relics of a saint or other holy person and forming an object of religious veneration and pilgrimage.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>святилище</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-079">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>proportion</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The comparative, proper, or harmonious relation of one part to another or to the whole with respect to magnitude, quantity, or degree. Also, the equality between two ratios in which the first of the four terms divided by the second equals the third divided by the fourth.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пропорция</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-080">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rampart</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A broad embankment of earth raised as a fortification around a place and usually surmounted by a parapet.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>вал (крепостной)</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-081">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>promenade</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An area used for a stroll or walk, esp. in a public place, as for pleasure or display.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>променад</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-082">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>portico</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A porch or walkway having a roof supported by columns, often leading to the entrance of a building.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>портик</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-083">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>peristyle</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A colonnade surrounding a building or a courtyard. Also, the courtyard so enclosed.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>перистиль</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-084">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pavilion</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A light, usually open building used for shelter, concerts, or exhibits, as in a park or fair. Also, a central or flanking projecting subdivision of a facade, usually accented by more elaborate decoration or greater height and distinction of skyline.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>павильон</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-085">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>palazzo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A large, imposing public building or private residence, esp. in Italy.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>палаццо</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-086">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pagoda</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A Buddhist temple in the form of a square or polygonal tower with roofs projecting from each of its many stories, erected as a memorial or to hold relics.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>пагода</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-087">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>obelisk</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A tall, four-sided shaft of stone that tapers as it rises to a pyramidal point, originating in ancient Egypt as a sacred symbol of the sun-god Ra and usually standing in pairs astride temple entrances.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>обелиск</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-088">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nuraghe</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any of the large, round or triangular stone towers found in Sardinia and dating from the second millennium B.C. to the Roman conquest.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>нураги</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-089">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>niche</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">An ornamental recess in a wall, often semicircular in plan and surmounted by a half-dome, as for a statue or other decorative object.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>ниша</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-090">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nave</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The principal or central part of a church, extending from the narthex to the choir or chancel and usually flanked by aisles.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>корабль (нэф)</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-091">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mosque</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A Muslim building or place of public worship.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мечеть</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-092">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>minaret</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A lofty, slender tower attached to a mosque, having stairs leading up to one or more projecting balconies from which the muezzin calls the Muslim people to prayer.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>минарет</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-093">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mezzanine</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A low or partial story between two main stories of a building, esp. one that projects as a balcony and forms a composition with the story beneath it.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мезонин</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-094">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>megalith</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A very large stone used as found or roughly dressed, esp. in ancient construction work.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мегалит</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-095">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mausoleum</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A large and stately tomb, esp. that in the form of a building for housing the tombs of many individuals, often of a single family.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>мавзолей</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-096">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>mass</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The physical volume or bulk of a solid body.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>масса</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-097">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>joist</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">Any of a series of small, parallel beams for supporting floors, ceilings, or flat roofs.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>балка</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-098">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hierarchy</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">A system of elements ranked, classified, and organized one above another, according to importance or significance.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>иерархия</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-099">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hall</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The large entrance room of a house or building, as a vestibule or lobby. Also, a large room or building for public gatherings or entertainment.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>холл</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="tid-100">
+        <descrip type="subjectField">Строительство, архитектура и BIM-технологии</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>background</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <descrip type="definition">The part of an image represented as being at the maximum distance from the frontal plane.</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <termGrp>
+              <term>фон</term>
+              <termNote type="partOfSpeech">noun</termNote>
+            </termGrp>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

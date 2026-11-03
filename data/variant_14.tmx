@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="lab01-generator" creationtoolversion="1.0" segtype="sentence" o-tmf="TMX" adminlang="en" srclang="en" datatype="plaintext" creationdate="20261101T191453Z"/>
+  <body>
+    <tu tuid="1" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The main characteristic of a BIM module is the representation of all components within a single structural unit, i.e. as a block having any geometric shape.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Главная характеристика BIM-модуля — представление всех составляющих в одной структурной единице, т.е. в виде блока в любом геометрическом виде.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The data centre infrastructure includes several engineering systems with a high level of reliability.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В инфраструктуру центра обработки данных входит несколько инженерных систем высокого уровня надежности.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The purpose of this work is to determine the effectiveness of design based on prefabricated modular elements (PME) using information modeling tools applied to a construction facility.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель данной работы — определение эффективности проектирования на основе модульных элементов (МЭ) максимальной готовности с помощью средств информационного моделирования на примере конкретного объекта строительства.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Cloud-based applications and services are becoming increasingly more popular.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Облачные приложения и сервисы становятся все более популярными.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>High-resolution scans were taken that were meshed using third-party software then built into the model using standard Revit family templates, to maintain a reasonable model size and avoid the need for importing non-Revit formats such as DWG files directly into the model space.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Было проведено сканирование высокого разрешения, которое было интегрировано с помощью стороннего программного обеспечения, встроенного в модель с помощью стандартных шаблонов семейства Revit, чтобы поддерживать разумный размер модели и избежать необходимости импортировать иные форматы, кроме Revit (например, файлы в формате DWG) непосредственно в пространство модели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Existing information may be in paper or electronic format, on-site or dispersed in several off-site locations, and potentially under intellectual property or security restrictions.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Существующая информация может быть предоставлена в бумажном или электронном формате, на месте или рассредоточена в нескольких местах, и потенциально представлять собой объект интеллектуальной собственности или являться конфиденциальной информацией.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A network of control points was installed and coordinated to the UK Ordnance Survey (OS) national grid using traverse methods and global positioning system (GPS) virtual reference stations (VRS).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Была установлена и скоординирована сеть контрольных точек для национальной сети картографической съемки Великобритании (OS) с использованием методов траверса и виртуальных опорных станций глобальной системы позиционирования (GPS) (VRS).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Laser scanning, photogrammetry (groundbased or mounted on a drone), lidar, closer range scanning, mobile mapping or a combination of methods can be used to produce 3D datasets of the historic asset.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лазерное сканирование, фотограмметрия (наземная или установленная на беспилотнике), работа с лидаром (LIDAR англ. Light Identification Detection and Ranging «обнаружение, идентификация и определение дальности с помощью света»), сканирование на близком расстоянии, мобильное картирование или комбинация методов может использоваться для создания 3D наборов данных исторического здания.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Integration of heterogeneous datasets, such as historic information, legacy data, photographs and drawings, geospatial datasets, geophysics and remotely sensed data and imagery.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Интеграция разнородных источников данных, таких как исторические источники, данные в устаревшем формате, фотоснимки и чертежи, геопространственные данные, геофизические данные и данные дистанционного зондирования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Andrews et al (2015) provides guidance and template specifications for a range of survey methods, such as image-based, measured survey and laser scanning.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В издании Andrews et al (2015) предоставлено техническое руководство и шаблоны спецификаций для ряда методов исследований, основанных на изображении, обследовании с замерами здания и лазерном сканировании.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Naming conventions are crucial for information management processes, especially in the absence of a data management system able to support metadata.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Соглашения о названиях имеют решающее значение для процессов управления информацией, особенно в ситуации отсутствия системы управления данными, способной поддерживать метаданные.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In parametric modelling, changes in design will automatically update the assembly and its components so that rules and object definitions are always valid.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В параметрическом моделировании изменения в конструкции автоматически влияют на модель и ее компоненты, поэтому правила и определения объектов всегда являются верными.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Modelling tolerance refers to how accurately a model fits against the as-existing survey (usually a point cloud dataset).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Допустимое значение моделирования относится к тому, насколько точно модель соответствует существующему обследованию (обычно набору данных облака точек).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM software restrictions also make the use of native parametric objects for irregular geometries difficult or impossible to achieve without limiting model functionality.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ограничения программного обеспечения BIM также затрудняют или делают невозможными использование родных параметрических предметов неправильной геометрической формы без ограничения функциональности модели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Articles relevant to Historic BIM can be found in the International Society for Photogrammetry and Remote Sensing (ISPRS) archive and the International Committee for Documentation of Cultural Heritage (CIPA) conference archives.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Статьи, имеющие отношение к BIM-моделированию исторических объектов, можно найти на сайте Международного общества фотограмметрии и дистанционного зондирования (ISPRS) и в Архиве конференции Международного Комитета по документации культурного наследия (CIPA).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A number of plug-ins and additional tools are available to cover a range of applications, such as automatic geometry extraction (for scanto-BIM workflows), clash detection, project management, visualisation, interfacing with other systems, and others.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Множество плагинов и дополнительных инструментов способны обеспечить такие области применения, как автоматическое извлечение геометрии (для потоков операций сканирования для BIM), обнаружение коллизий, управление проектом, визуализация, взаимодействие с другими системами и др.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Within the issued file, sheets were set up for each floorplan, including the roof level, along with elevations and typical sections and rendered viewports throughout the structure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В выданном файле для каждого плана этажа были настроены отдельные листы, включая уровень крыши, а также разверстки и визуализированные окна конструирования по всему зданию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The final model was released to the client as a Revit model set up with both a local grid on a prearranged project north, and the UK Ordnance Survey (OS) national grid.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Окончательная модель была выпущена для клиента в виде модели Revit, настроенной как с наличием локальной сетки на заранее подготовленный проект, так и с национальная сетью картографической службы Великобритании.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>These typically take the form of point clouds, which are now supported by most BIM software.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обычно они преобразуются в облака точек, которые теперь поддерживаются большинством компьютерных программ для BIM.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Construction projects in the heritage sector (conservation refurbishment, adaptive reuse, extension and repair) could similarly benefit from the adoption of BIM and collaborative working processes, with increased efficiency, reduced costs, better planning and improved carbon performance for historic buildings and sites.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Строительные проекты в сфере сохранения наследия (консервация и восстановление, адаптивное повторное использование, расширение и ремонт) могли бы аналогичным образом выиграть при условии использования BIM и совместных рабочих процессов, чтобы привело бы к повышению эффективности, снижению затрат, улучшению планирования и оптимизации выработки углерода для исторических зданий и других объектов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Further investigations, qualitative surveys, desk-based assessments and site inspections can be required depending on the scope of the project and client requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В зависимости от объема проекта и требований клиента могут потребоваться дальнейшие обследования объекта, качественные и кабинетные исследования, а также инспекции на местах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM Level 2 refers to a collaborative process of producing federated disciplinespecific models, consisting of 3D geometric and non-graphical data and associated documentation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM 2-го уровня подразумевает совместный процесс создания интегрированных специализированных моделей, состоящих из данных в форме 3D, геометрических и неграфических данных и соответствующей документации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Intangible characteristics, such as heritage values and significance, can be integrated into the 3D model in a structured and consistent way, which allows easy information extraction and the production of deliverables.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Такие нематериальные характеристики объекта, как его историческая значимость и ценность в аспекте наследия, могут быть последовательно интегрированы в 3D-модель, что позволяет просто извлекать информацию и проектную документацию.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Meshing techniques were employed by the modelling team to enable the creation of the more ‘organic’ geometry presented by these objects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Команда моделирования использована метод создания сетки для репрезентации более «органической» геометрии этих объектов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Historic BIM should be based on accurate as-existing metric survey datasets (preferably 3D), which document the position, size and dimensions of all visible surfaces, components and context of the historic asset, referenced to a local or national coordinate system.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Информационное моделирование исторического объекта должно быть основано на точных и реальных наборах данных метрических измерений (предпочтительно в форме 3D-модели), которые фиксируют расположение, размер и объемы всех видимых поверхностей, строительных элементов и особенностей, характерных для исторического объекта, на которые ссылаются местная или национальная система координат.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>This can be a relatively quick way to add complex geometry to a model, without the need to recreate the object as native BIM geometry.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Он может позволить относительно быстро добавить сложные геометрические элементы к модели без необходимости воссоздавать объект в качестве родной геометрии BIM.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>These can include archival data, product specifications, operation and maintenance (O&amp;M) manuals, reports, condition surveys, audio and video recordings (eg documenting visitor experience), inspection logs or any other type of digital file.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>К ним можно отнести архивные данные, технические характеристики изделий, руководства по эксплуатации и техническому обслуживанию, отчеты, обследования состояния объекта, аудиои видеозаписи (например, задокументированный опыт посетителя), журналы проверки технического состояния или любой другой тип цифрового файла.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM provides a methodology for better information management on design and construction projects, with eventual handover of the full information required for the operational stage.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM обеспечивает методологию для лучшего управления информацией по проектированию и строительным проектам, с возможной передачей полной информации, необходимой для строительного этапа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The subject of IPR and professional liability on BIM projects is complex.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тема интеллектуальной собственности и профессиональной ответственности в проектах BIM является сложной.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Anthropometry refers to the measurement of the size and proportions of the human body.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Антропометрия имеет дело с размерами и пропорциями человеческого тела.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>They are manifested here in the atrium spaces of houses, the arcaded cortile of an Italian palazzo, the enclosure of a Greek shrine, the courtyard of a Finnish town hall, and the cloister of a monastery.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Здесь они представлены атриумным пространством домов, обнесенным аркадами итальянского палаццо, внутренним пространством греческого святилища, внутренним домом финской городской ратуши, клуатром монастыря.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A stairway leading up to a second-story balcony or loft can give us an idea of the vertical dimension of a room as well as suggest a human presence.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лестница, ведущая на балкон второго этажа, дает представление о высоте помещения и одновременно намекает на человеческое присутствие.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The Renaissance facade by Alberti presents a public face to a square.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Парадный фасад эпохи Ренессанса по проекту Альберти выходит на городскую площадь.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Although the study of connotative meanings, of semiotics and symbology in architecture, is beyond the scope of this book.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Хотя рассмотрение смысловых значений, семиотики и символики в архитектуре выходит за рамки этой книги, здесь необходимо сказать, что архитектура, сочетая в единую сущность форму и пространство, не только оформляет функциональные потребности, но и передает смысл.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The pyramid has properties similar to those of the cone.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>По своим качествам пирамида более всего сходна с конусом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The intent of all theories of proportions is to create a sense of order and harmony among the elements in a visual construction.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Цель всех пропорциональных теорий - создать впечатление упорядоченности и гармонии всех зримых элементов постройки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The Golden Section has some remarkable algebraic and geometric properties that account for its existence in architecture as well as in the structures of many living organisms.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>У золотого сечения есть несколько примечательных алгебраических и геометрических особенностей, которые отражаются и в архитектуре, и в строении многих живых организмов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>It can serve as a repository for frescoes and other means of artistic expression or be treated simply as a passive or receding surface.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Потолок может быть выразительной художественной зоной, размещающей фрески или другое художественное оформление.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>And for each room size, a different ceiling height is established according to the following: height of the ceiling (shaku), measured from the top of the frieze board = number of mats x 0.3.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Также для каждого помещения устанавливается своя высота потолка, исходя из следующего правила: высота потолка (сяку) от верхней поверхности балки фриза равняется числу матов, умноженному на 0,3.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The enclosure may consist of arcades or gallery spaces that promote the inclusion of surrounding buildings into their domain and activate the space they define.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Оно может быть обнесено аркадами или галереями, пространство которых активизирует связь между окружающими сооружениями и ограждаемым пространством.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A row of columns can also engage a wall and become a pilastrade that supports the wall, articulates its surface, and tempers the scale, rhythm, and proportioning of its bays.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ряд колонн может также примыкать к стене, превращаясь в пилястры, которые способствуют конструктивному укреплению стены и художественной разработке ее поверхности, задавая масштаб, ритм и пропорции ее членений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>As a design element, the roof plane is significant because of the impact it can have on the form and silhouette of a building within its setting.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Как элемент дизайна плоскость крыши имеет огромное значение в силу того влияния, которое она способна оказывать на форму и силуэт сооружения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A garden terrace distributes sunlight to the spaces gathered around it.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Садовая терраса равномерно распределяет солнечный свет в окружающие ее пространства.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>During the Renaissance, Andrea Palladio incorporated the tetrastyle theme in the vestibules and halls of a number of villas and palazzi.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В эпоху Ренессанса Андреа Палладио в целом ряде своих вилл и дворцов ввел тему тетрастиля в разработку вестибюлей и залов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A row of columns is indeed nothing but a wall, open and discontinued in several places.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В сущности, ряд колонн - не что иное, как стена, открытая и в нескольких местах разорванная».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Within the Villa Foscari you are aware of the thickness of the walls that separate the rooms, each of which has been given definitive and precise form.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В вилле Фоскари ощущается тотцина стен, разделяющих помещения, каждому из которых придана четкая точная форма.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>To respond to contrasting geometries of the topography, vegetation, boundaries, or existing structures of a site.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Чтобы приспособиться к контрастным геометрическим очертаниям топографии местности, растительности, границам и структуре участка.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The diagrams illustrate the transformation of a row of round columns, initially supporting a portion of a wall, then evolving into square piers which are an integral part of the wall plane, and finally becoming pilasters—remnants of the original columns occurring as a relief along the surface of the wall.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>На схемах показана трансформация ряда круглых колонн, изначально несущих часть стены, которые потом превращаются в квадратные в плане пилоны, сами становясь частью стенной плоскости, и, наконец, в пилястры - остатки прежних колонн, - существующие на стенной плоскости уже только в виде рельефа.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Four exterior wall planes define a rectangular volume that contains the program elements and spaces.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Четыре наружных стенных панели образуют прямоугольный объем, в котором заключаются программные элементы и пространства.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In the movement from plane to spaces, the clash of planes gives rise to body (three-dimensional).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>При переходе от плоскости к объему столкновение плоскостей «рождает» тело (трехмерное).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In each case, the hierarchically important form or space is given meaning and significance by being an exception to the norm, an anomaly within an otherwise regular pattern.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В любом случае иерархически важная форма или объем обретают смысл и  значительность, становясь исключением из нормы, «аномалией» в регулярной композиции.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Two points established in space by columnar elements or centralized forms can define an axis, an ordering device used throughout history to organize building forms and spaces.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Между двумя точками, отмеченными в  пространстве столбообразными элементами или централизованными формами, устанавливается ось.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Stairs and certain modular materials, such as brick and concrete block, help us measure the scale of a space.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Лестницы и некоторые модульные материалы вроде кирпичей или бетонных блоков облегчают оценку пространственного масштаба.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A special field that has developed from a concern with human factors is ergonomics—the applied science that coordinates the design of devices, systems, and environments with our physiological and psychological capacities and requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Внимание к  человеческим факторам породило новую прикладную науку — эргономику, которая занимается координацией дизайна разного рода устройств, систем и сред с нашими физиологическими и психологическими потребностями и возможностями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>From this module were derived the dimensions of the shaft, the capital, as well as the pedestal below and the entablature above, down to the smallest detail.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Из  этого модуля выводились размеры ствола колонны, капители, базы и антаблемента  — все, вплоть до  мельчайших деталей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The circle is a centralized, introverted figure that is normally stable and self-centering in its environment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Круг  — центричная, уравновешенная, замкнутая в себе фигура, образующая самостоятельный центр в пространстве.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A row of columns supporting an entablature—a colonnade—is often used to define the public face or facade of a building, especially one that fronts on a major civic space.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ряд колонн, несущих антаблемент, — колоннада, — нередко оформляет парадный фасад сооружения, особенно выходящий в  главное городское пространство.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In addition to the structural role columns play in supporting an overhead floor or roof plane, they can articulate the penetrable boundaries of spatial zones which mesh easily with adjacent spaces.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Колонны не  только играют конструктивную роль опор, несущих верхний этаж или крышу, но и образуют сквозные, «решетчатые» границы пространственных зон, которые могут легко взаимодействовать с  окружающим пространством.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The term Building Information Modelling (BIM) is used to describe a collaborative process for the production and management of structured electronic information.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Термин «информационное моделирование зданий» (Building Information Modelling — BIM) используется для описания совместного процесса производства и управления структурированной информацией в электронном формате.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Within the standard BIM approach, client requirements in terms of BIM services can take the form of an EIR or asset information requirement (AIR) document (as defined in PAS 1192-2:2013 and 1192-3:2014, respectively; BSI 2013b, 2014b).</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В рамках стандартного подхода к BIM, клиентские требования в части услуг по информационному моделированию могут предоставляться в форме электронного информационного ресурса или документа, содержащего требования по объекту информации (в терминах Спецификаций PAS 1192—2:2013 и 1192—3:2014 соответственно; Британского стандарта BSI 2013b, 2014b).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A project information model (PIM) is the information model developed during the design and construction phase of a project, which often forms the basis of the AIM.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Компьютерная модель проекта (КМП) — это модель, разработанная в ходе фазы проектирования и строительства проекта, часто составляющая основу компьютерной архитектурной модели.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The entrance facade operates at two scales: that of the building as a whole facing a public space and another at the size of a person entering the church.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Фасадный вход воспринимается в двух масштабах: в масштабе городского сооружения, выходящего в общественное пространство, и в масштабе человека, входящего в церковь.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>For architectural applications, computer modeling software enables the creation and manipulation of virtual, three-dimensional models of existing or proposed buildings and environments for analysis, testing, and appraisal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В архитектуре компьютерное моделирование используется для создания и  изменения виртуальных трехмерных моделей существующих или проектных зданий и  окружающего ландшафта с  целью анализа, тестирования и оценки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The cantilever acknowledges the direction of approach along the longitudinal axis.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Консоль указывает направление подхода вдоль продольных осей.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>This dimensional transformation would create a hierarchical set of modules differentiated by size, proportion, and location.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Подобные изменения в модульной соразмерности позволяют создавать иерархический ряд модулей, отличающихся по размерам, пропорциям и расположению.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Our perception of shape depends on the degree of visual contrast that exists along the contour separating a figure from its ground or between a form and its field.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Наше восприятие очертаний зависит от  остроты визуального контраста, существующего между контурами фигуры и фоном.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The ground plane itself can be manipulated as well to establish a podium for a building form.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Саму земную плоскость можно преобразовывать: превратить в подиум для святилища или иного значительного места.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Together, they form an inseparable reality — a unity of opposites—just as the elements of form and space together form the reality of architecture.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вместе они образуют нераздельную реальность — единство противоположностей, — точно так  же, как элементы формы и пространство вместе образуют архитектурную реальность.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Torii is a monumental, freestanding gateway on the approach to a Shinto shrine, consisting of two pillars connected at the top by a horizontal crosspiece and a lintel above it, usually curving upward.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Тории представляют собой монументальные свободностоящие ворота на пути к синтоистскому святилищу, образованные двумя столбами, соединенными сверху деревянной поперечиной с карнизом над ней, обычно с загнутыми наверх краями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Tokonoma, the spiritual center of a traditional Japanese house.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Токонома — внутренний центр (фокус) в традиционном японском доме.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In sitations where greater visual and spatial continuity between two spaces is desired, even a change in level can establish a threshold and mark the passage from one place to another.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В ситуациях, когда желательно большее визуальное и пространственное единство между двумя пространствами, достаточно перепада в уровнях, чтобы образовавшийся порог отметил переход из одного места в другое.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Vitruvius termed this a tetrastyle atrium.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Витрувий назвал его «тетрастильным атриумом».</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>An architectural composition can utilize symmetry to organize its forms and spaces in two ways.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В архитектурной композиции симметрия может использоваться для организации форм и  пространств двумя способами.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The one-story space flows into the larger volume of which it is a part and to the outdoors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пространство высотой в один этаж и  выходит на  улицу, и проникает в сам дом, становясь его частью.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A stele and tortoise guard the Tomb of Emperor Wan Li, northwest of Beijing, China.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Стела и каменная черепаха охраняют гробницу императора Ван-Ли, к северо-западу от Пекина, Китай.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The pyramidal composition culminates in a spire that serves to establish this fortified monastery as a specific place in the landscape.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Пирамидальная композиция завершается высоким шпилем, который указывает на исключительное место этого укрепленного монастыря в пейзаже.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Such elements as a table or chair, the risers and treads of a stairway, the sill of a window, and the lintel over a doorway, not only help us judge the size of a space but also give it a human scale.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Такие объекты, как стол, стул, перила и ступени лестницы, подоконник, дверная притолока, не только помогают судить о размерах пространства, но и придают ему человеческий масштаб.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Believing that both humanity and the shrines housing their deities should belong to a higher universal order, they utilized these same proportions in their temple structures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Уверенные, что человеческие жилища и  святилища богов должны соответствовать высшему вселенскому порядку, они использовали те же пропорции в  храмовых сооружениях.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The form of the roof plane, in turn, is determined by the material, geometry, and proportions of its structural system and the manner in which it transfers its loads across space to its supports.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В свою очередь, форма крыши определяется материалом, геометрией и  пропорциями общей структуры здания, а также способом передачи нагрузки на несущие элементы.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The enclosing planes may be ramparts, walls, or fences that isolate the field and exclude surrounding elements from the precinct.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Ограждающими плоскостями могут быть валы, стены, изгороди или другие элементы, изолирующие пространственное поле от окружающей среды.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The form and scale of entrances and paths should also convey the functional and symbolic distinction between public promenades, private halls, and service corridors.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Форма и масштаб входов и  проходов должны также отражать функциональные и символические различия между, скажем, общественным променадом, частным владением или служебным коридором.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The entrance portico of the library at the University of Virginia, modeled after the Pantheon in Rome, is scaled to the overall building form while the doorway and windows behind it are scaled to the size of the spaces within the building.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Входной портик библиотеки университета Виргинии, построенный по образцу римского Пантеона, соответствует по масштабу общей форме здания, а расположенные за колоннами окна и двери отвечают масштабу внутренних помещений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Plan of Peristyle Courtyard Houses on Delos, a Greek island in the Aegean.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>План перистильных домов с внутренними дворами на Делосе, греческом острове в Эгейском море.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Chinese painting illustrating the use of a pavilion structure to define a shaded resting place within an encampment.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Этот китайский рисунок иллюстрирует, как используется павильонная система для организации затененной зоны отдыха в лагере.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The interior rooms surround a cortile— the principal courtyard of an Italian palazzo.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Помещения расположены вокруг внутреннего дворика — главного элемента итальянского палаццо.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>From the stupa, the Indian prototype, the pagoda gradually changed in form to resemble the traditional multistoried watch tower as it spread with Buddhism to China and Japan.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Возникшая по  образцу индийской ступы, пагода постепенно изменяла форму, приближаясь к традиционной многоэтажной сторожевой башне, характерной для буддийских построек Китая и Японии.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>To visibly mark a position in space or on the ground plane, a point must be projected vertically into a linear form, as a column, obelisk, or tower.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Чтобы визуально отметить положение в  пространстве или на земной плоскости, точку надо продлить вертикально в виде линии — колонны, обелиска, башни.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Nuraghe at Palmavera, Sardinia, typical of the ancient stone towers of the Nuraghic culture, 18th–16th century B.C..</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Нураги, Пальмавера, Сардиния, типичные каменные башни и жилища древней культуры нурагов, XVIII—XVI вв. до н. э..</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>U-shaped enclosures of space can range in scale from a niche in the wall of a room, to a hotel or dormitory room, and on to an arcaded outdoor space that organizes an entire complex of buildings.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>U-образные пространственные конфигурации могут использоваться в диапазоне от ниши в стене гостиной или спальни и до наружных аркад или галерей, организующих весь комплекс сооружений.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>This view of the nave shows how rows of columns can provide a rhythmic measure of space.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Здесь показано, как ряды колонн в корабле могут задавать ритм пространственного членения.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In the example illustrated to the left, four minaret towers outline a spatial field from which the dome of the Selim Mosque rises in splendor.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Слева, например, мы можем увидеть четыре высоких минарета, которые зрительно выделяют участок пространства, где величественно высится купол мечети султана Селима.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In these examples, various forms of minarets mark the corners of a platform and establish a field of space—a three-dimensional framework—for the Mogul mausoleum structures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В этих примерах разнообразные формы минаретов отмечают углы подиума и  моделируют своеобразный трехмерный «каркас» пространственной зоны для зданий могольских мавзолеев.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The special effect of the hall in this firmly interlocked composition is produced by its great height, the barrelvaulted ceiling towering high above the side rooms into the mezzanine.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Особый эффект этого зала, с его крепко увязанной композицией, создает его огромная высота, цилиндрический свод потолка, который возвышается над боковыми помещениями, превращаясь в мезони.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>A prehistoric monument consisting of an upright megalith, usually standing alone but sometimes aligned with others.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Доисторический монумент, представляет собой прямостоящий мегалит, обычно одиночный, но порой окруженный и другими камнями.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Shah Jahan built this white marble mausoleum for his favorite wife, Muntaz Mahal.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Шах Джахан выстроил этот беломраморный мавзолей для своей любимой жены Мумтаз-Махал.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The form of solid mass rendered as a figure.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Твердая масса оформляется как фигура.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>This can be seen in the way joists are supported by beams, which in turn are supported by girders.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Это отчетливо читается в том, как соотносятся несущие друг друга фермы, стропила и  балки.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The principle of hierarchy implies that in most if not all architectural compositions, real differences exist among their forms and spaces.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Принцип иерархии подразумевает, что практически во  всех архитектурных композициях существуют реальные различия в  формах и  пространствах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The flow of the space defined by parallel planes corresponds naturally to the paths of movement within a building, along its corridors, halls, and galleries.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Направление пространственного потока между параллельными плоскостями, естественно, соответствует направлению движения внутри сооружения по коридорам, холлам, галереям.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>To better comprehend the structure of a visual field, we tend to organize its elements into two opposing groups: positive elements, which are perceived as figures and negative elements, which provide a background for the figures.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Чтобы лучше понять структуру зрительного поля, мы склонны делить эти элементы на две противоположные группы: позитивные элементы, которые воспринимаются в виде фигур, и негативные, которые составляют фон для фигур.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The problem of poor construction information – incomplete, inaccurate or ambiguous – has been identified as one of the key factors responsible for additional capital costs, delays and inefficiency in the construction sector.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Проблема плохой строительной информации — неполной, неточной или двусмысленной — является одним из основных факторов дополнительных капитальных затрат, задержек и неэффективности в строительном секторе.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM offers a framework for better information management through the integration of digital technologies and collaborative working processes, applied across different sectors of the construction industry using common standards.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Благодаря интеграции цифровых технологий и совместных рабочих процессов, применяемых в различных секторах строительной отрасли с использованием общих стандартов,BIM позволяет лучше управлять информацией.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The benefits of BIM for the architectural, engineering, construction and operation (AECO) industry are well known, but how well it can be applied in the heritage sector is still open to question.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Преимущества BIM для сферы архитектуры, инженерии и строительства хорошо известны, но то, насколько масштабно можно использовать это моделирование применительно к объектам культурного наследия, остается открытым вопросом.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>By incorporating high-quality digital survey datasets, BIM not only represents the appearance of the existing historic fabric, but also allows the exploration and complex analysis of proposed interventions in various scenarios.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Используя цифровые базы данных высокого качества, BIM не только позволяет воссоздать внешний вид исторических строительных материалов, но также позволяет исследовать и комплексно проанализировать предложенное вмешательство в его различных вариантах.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM allows the structured integration of both geometric and non-geometric information (including tangible and intangible values) as well as external documents into a single model, thereby becoming a central hub for all information relating to a historic asset.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM позволяет объединить как геометрическую, так и негеометрическую информацию (включая материальные и нематериальные ценности), а также внешние документы в единую модель.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM is sometimes incorrectly identified as a specific software package or a type of 3D digital model.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM иногда неправильно ассоциируют со специальным пакетом компьютерных программ или типом цифрового 3D-моделирования.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The concept of BIM maturity levels is used to describe the sophistication of information management processes within BIM projects.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Концепция уровней зрелости BIM используется для описания сложности процесса управления информацией в рамках проектов по BIM.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>In simple terms, BIM can be described as a process of digitally illustrating all the elements that comprise a building, while in technical terms it is defined as object-orientated parametric modelling.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM можно описать как процесс цифровой иллюстрации всех элементов, которые составляют здание, в то время, как в технические терминах оно определяется как объектоориентированное параметрическое моделирование.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The geometric model and its associated information are presented within the BIM software environment as 2D and 3D views, schedules and drawing sheets.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Геометрическая модель и связанная с ней информация представлена в программной среде BIM в виде 2D и 3D визуализаций, графиков и чертежных листов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Non-geometric information can refer to physical characteristics of the built fabric, such as materials, appearance and condition.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Негеометрическая информация может относиться к таким физическим характеристикам объекта, как материалы, внешний вид и состояние.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Documentation of the existing fabric, paying particular attention to accurate metric data, is a prerequisite for heritage conservation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Документирование существующей структуры, при котором особое внимание уделяется точным метрическим данным, является необходимым условием для объектов сохранения наследия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM consists of (2D and 3D) geometry, non-geometric information and associated documents and data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM состоит из геометрической (2D и 3D), негеометрической информации и связанных с ней документов и данных.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM for existing structures does not necessarily have to be based on point cloud data.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM для существующих структур не обязательно должно быть основано на данных облака точек.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Unlike new-build architecture, which is usually characterised by uniformity and repetition, cultural heritage assets typically consist of nonstandard, bespoke or unique building elements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>В отличие от объектов новой архитектуры, которая обычно характеризуется единообразием и повторяемостью, объекты культурного наследия обычно состоят из нестандартных, выполненных на заказ или уникальных строительных элементов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM and collaborative working processes offer considerable benefits for construction and asset management, with similar potential for the heritage sector.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>BIM и совместные рабочие процессы предлагают значительные преимущества для строительства и управления объектами, которые потенциально будут применимы и полезны для сектора наследия.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM processes rely on appropriate IT infrastructure in terms of software, hardware and networks, which is informed by organisational and specific project requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Процессы BIM полагаются на соответствующую ИТ-составляющую в виде программного обеспечения, аппаратных средств и сетей, которые соответствуют особым требованиям к проекту.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM file sizes will vary significantly between projects, depending on asset size and information requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Вес файлов BIM значительно различаются в зависимости от проектов, размера объектов и требований к информации.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>Networks are essential for collaborative working, either through a local network or in the cloud.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Сети необходимы для совместной работы либо через локальную сеть, либо в облаке.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>The use of BIM project standards is an essential step in ensuring consistency and quality control, especially in the case of collaborative working processes.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Использование стандартов проекта BIM является важным шагом в обеспечении согласованности и контроля качества, особенно в случае совместных рабочих процессов.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120" creationdate="20261101T191453Z">
+      <prop type="domain">Construction / BIM</prop>
+      <tuv xml:lang="en">
+        <seg>BIM training and skills development are an important part of BIM implementation.</seg>
+      </tuv>
+      <tuv xml:lang="ru">
+        <seg>Обучение информационному моделированию и развитие навыков в этой области являются важной частью реализации BIM.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
